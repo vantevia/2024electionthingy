@@ -1,0 +1,467 @@
+{
+  "apportionmentData": [
+    {
+      "name": "Alabama",
+      "stusps": "AL",
+      "statefp": "01",
+      "population": 5030053,
+      "ev": 9
+    },
+    {
+      "name": "Alaska",
+      "stusps": "AK",
+      "statefp": "02",
+      "population": 736081,
+      "ev": 3
+    },
+    {
+      "name": "Arizona",
+      "stusps": "AZ",
+      "statefp": "04",
+      "population": 7158923,
+      "ev": 11
+    },
+    {
+      "name": "Arkansas",
+      "stusps": "AR",
+      "statefp": "05",
+      "population": 3013759,
+      "ev": 6
+    },
+    {
+      "name": "California",
+      "stusps": "CA",
+      "statefp": "06",
+      "population": 39576757,
+      "ev": 54
+    },
+    {
+      "name": "Colorado",
+      "stusps": "CO",
+      "statefp": "08",
+      "population": 5782171,
+      "ev": 10
+    },
+    {
+      "name": "Connecticut",
+      "stusps": "CT",
+      "statefp": "09",
+      "population": 3608298,
+      "ev": 7
+    },
+    {
+      "name": "Delaware",
+      "stusps": "DE",
+      "statefp": "10",
+      "population": 990837,
+      "ev": 3
+    },
+    {
+      "name": "District of Columbia",
+      "stusps": "DC",
+      "statefp": "11",
+      "population": 689545,
+      "ev": 3
+    },
+    {
+      "name": "Florida",
+      "stusps": "FL",
+      "statefp": "12",
+      "population": 21570578,
+      "ev": 30
+    },
+    {
+      "name": "Georgia",
+      "stusps": "GA",
+      "statefp": "13",
+      "population": 10725274,
+      "ev": 16
+    },
+    {
+      "name": "Hawaii",
+      "stusps": "HI",
+      "statefp": "15",
+      "population": 1460137,
+      "ev": 4
+    },
+    {
+      "name": "Idaho",
+      "stusps": "ID",
+      "statefp": "16",
+      "population": 1841377,
+      "ev": 4
+    },
+    {
+      "name": "Illinois",
+      "stusps": "IL",
+      "statefp": "17",
+      "population": 12822739,
+      "ev": 19
+    },
+    {
+      "name": "Indiana",
+      "stusps": "IN",
+      "statefp": "18",
+      "population": 6788799,
+      "ev": 11
+    },
+    {
+      "name": "Iowa",
+      "stusps": "IA",
+      "statefp": "19",
+      "population": 3192406,
+      "ev": 6
+    },
+    {
+      "name": "Kansas",
+      "stusps": "KS",
+      "statefp": "20",
+      "population": 2940865,
+      "ev": 6
+    },
+    {
+      "name": "Kentucky",
+      "stusps": "KY",
+      "statefp": "21",
+      "population": 4509342,
+      "ev": 8
+    },
+    {
+      "name": "Louisiana",
+      "stusps": "LA",
+      "statefp": "22",
+      "population": 4661468,
+      "ev": 8
+    },
+    {
+      "name": "Maine",
+      "stusps": "ME",
+      "statefp": "23",
+      "population": 1363311,
+      "ev": 4
+    },
+    {
+      "name": "Maryland",
+      "stusps": "MD",
+      "statefp": "24",
+      "population": 6185278,
+      "ev": 10
+    },
+    {
+      "name": "Massachusetts",
+      "stusps": "MA",
+      "statefp": "25",
+      "population": 7033469,
+      "ev": 11
+    },
+    {
+      "name": "Michigan",
+      "stusps": "MI",
+      "statefp": "26",
+      "population": 10084442,
+      "ev": 15
+    },
+    {
+      "name": "Minnesota",
+      "stusps": "MN",
+      "statefp": "27",
+      "population": 5709752,
+      "ev": 10
+    },
+    {
+      "name": "Mississippi",
+      "stusps": "MS",
+      "statefp": "28",
+      "population": 2963914,
+      "ev": 6
+    },
+    {
+      "name": "Missouri",
+      "stusps": "MO",
+      "statefp": "29",
+      "population": 6160281,
+      "ev": 10
+    },
+    {
+      "name": "Montana",
+      "stusps": "MT",
+      "statefp": "30",
+      "population": 1085407,
+      "ev": 4
+    },
+    {
+      "name": "Nebraska",
+      "stusps": "NE",
+      "statefp": "31",
+      "population": 1963332,
+      "ev": 5
+    },
+    {
+      "name": "Nevada",
+      "stusps": "NV",
+      "statefp": "32",
+      "population": 3108462,
+      "ev": 6
+    },
+    {
+      "name": "New Hampshire",
+      "stusps": "NH",
+      "statefp": "33",
+      "population": 1379089,
+      "ev": 4
+    },
+    {
+      "name": "New Jersey",
+      "stusps": "NJ",
+      "statefp": "34",
+      "population": 9294493,
+      "ev": 14
+    },
+    {
+      "name": "New Mexico",
+      "stusps": "NM",
+      "statefp": "35",
+      "population": 2120220,
+      "ev": 5
+    },
+    {
+      "name": "New York",
+      "stusps": "NY",
+      "statefp": "36",
+      "population": 20215751,
+      "ev": 28
+    },
+    {
+      "name": "North Carolina",
+      "stusps": "NC",
+      "statefp": "37",
+      "population": 10453948,
+      "ev": 16
+    },
+    {
+      "name": "North Dakota",
+      "stusps": "ND",
+      "statefp": "38",
+      "population": 779702,
+      "ev": 3
+    },
+    {
+      "name": "Ohio",
+      "stusps": "OH",
+      "statefp": "39",
+      "population": 11808848,
+      "ev": 17
+    },
+    {
+      "name": "Oklahoma",
+      "stusps": "OK",
+      "statefp": "40",
+      "population": 3963516,
+      "ev": 7
+    },
+    {
+      "name": "Oregon",
+      "stusps": "OR",
+      "statefp": "41",
+      "population": 4241500,
+      "ev": 8
+    },
+    {
+      "name": "Pennsylvania",
+      "stusps": "PA",
+      "statefp": "42",
+      "population": 13011844,
+      "ev": 19
+    },
+    {
+      "name": "Rhode Island",
+      "stusps": "RI",
+      "statefp": "44",
+      "population": 1098163,
+      "ev": 4
+    },
+    {
+      "name": "South Carolina",
+      "stusps": "SC",
+      "statefp": "45",
+      "population": 5124712,
+      "ev": 9
+    },
+    {
+      "name": "South Dakota",
+      "stusps": "SD",
+      "statefp": "46",
+      "population": 887770,
+      "ev": 3
+    },
+    {
+      "name": "Tennessee",
+      "stusps": "TN",
+      "statefp": "47",
+      "population": 6916897,
+      "ev": 11
+    },
+    {
+      "name": "Texas",
+      "stusps": "TX",
+      "statefp": "48",
+      "population": 29183290,
+      "ev": 40
+    },
+    {
+      "name": "Utah",
+      "stusps": "UT",
+      "statefp": "49",
+      "population": 3275252,
+      "ev": 6
+    },
+    {
+      "name": "Vermont",
+      "stusps": "VT",
+      "statefp": "50",
+      "population": 643503,
+      "ev": 3
+    },
+    {
+      "name": "Virginia",
+      "stusps": "VA",
+      "statefp": "51",
+      "population": 8642011,
+      "ev": 13
+    },
+    {
+      "name": "Washington",
+      "stusps": "WA",
+      "statefp": "53",
+      "population": 7715946,
+      "ev": 12
+    },
+    {
+      "name": "West Virginia",
+      "stusps": "WV",
+      "statefp": "54",
+      "population": 1795045,
+      "ev": 4
+    },
+    {
+      "name": "Wisconsin",
+      "stusps": "WI",
+      "statefp": "55",
+      "population": 5897473,
+      "ev": 10
+    },
+    {
+      "name": "Wyoming",
+      "stusps": "WY",
+      "statefp": "56",
+      "population": 577719,
+      "ev": 3
+    }
+  ],
+  "growthRates": {
+    "AL": 0.003,
+    "AK": 0.001,
+    "AZ": 0.012,
+    "AR": 0.003,
+    "CA": -0.002,
+    "CO": 0.008,
+    "CT": -0.001,
+    "DE": 0.007,
+    "DC": 0,
+    "FL": 0.015,
+    "GA": 0.009,
+    "HI": -0.001,
+    "ID": 0.016,
+    "IL": -0.004,
+    "IN": 0.004,
+    "IA": 0.001,
+    "KS": 0.001,
+    "KY": 0.002,
+    "LA": -0.003,
+    "ME": 0.002,
+    "MD": 0.001,
+    "MA": -0.001,
+    "MI": 0,
+    "MN": 0.003,
+    "MS": -0.002,
+    "MO": 0.002,
+    "MT": 0.01,
+    "NE": 0.002,
+    "NV": 0.013,
+    "NH": 0.002,
+    "NJ": -0.001,
+    "NM": -0.001,
+    "NY": -0.005,
+    "NC": 0.01,
+    "ND": 0.005,
+    "OH": 0,
+    "OK": 0.004,
+    "OR": 0.003,
+    "PA": -0.001,
+    "RI": -0.002,
+    "SC": 0.014,
+    "SD": 0.006,
+    "TN": 0.009,
+    "TX": 0.016,
+    "UT": 0.015,
+    "VT": 0,
+    "VA": 0.004,
+    "WA": 0.008,
+    "WV": -0.004,
+    "WI": 0.001,
+    "WY": 0.003
+  },
+  "pollClosingTimes": {
+    "GA": 19,
+    "IN": 19,
+    "KY": 19,
+    "SC": 19,
+    "VT": 19,
+    "VA": 19,
+    "NC": 19.5,
+    "OH": 19.5,
+    "WV": 19.5,
+    "AL": 20,
+    "CT": 20,
+    "DE": 20,
+    "DC": 20,
+    "FL": 20,
+    "IL": 20,
+    "ME": 20,
+    "MD": 20,
+    "MA": 20,
+    "MS": 20,
+    "MO": 20,
+    "NH": 20,
+    "NJ": 20,
+    "OK": 20,
+    "PA": 20,
+    "RI": 20,
+    "TN": 20,
+    "AR": 20.5,
+    "AZ": 21,
+    "CO": 21,
+    "KS": 21,
+    "LA": 21,
+    "MI": 21,
+    "MN": 21,
+    "NE": 21,
+    "NM": 21,
+    "NY": 21,
+    "ND": 21,
+    "SD": 21,
+    "TX": 21,
+    "WI": 21,
+    "WY": 21,
+    "IA": 22,
+    "MT": 22,
+    "NV": 22,
+    "UT": 22,
+    "CA": 23,
+    "ID": 23,
+    "OR": 23,
+    "WA": 23,
+    "AK": 25,
+    "HI": 25
+  }
+}
